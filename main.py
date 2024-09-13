@@ -1,2 +1,6 @@
-print("dev")
+<<<<<<< HEAD
+print("git")
 
+=======
+print("git")
+>>>>>>> master
